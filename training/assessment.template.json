@@ -1,0 +1,8 @@
+{
+  "status": "NOT_ASSESSED",
+  "profile": "da",
+  "scores": null,
+  "evidence": [],
+  "next_question": null,
+  "note": "Copy to assessment_state.local.json for private grading. Never infer a score."
+}

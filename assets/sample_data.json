@@ -1,0 +1,48 @@
+{
+  "synthetic": true,
+  "purpose": "Illustrative quality-review example, not a client result",
+  "columns": [
+    "id",
+    "value",
+    "unit",
+    "issue_code"
+  ],
+  "rows": [
+    [
+      "O101",
+      1200000,
+      "VND",
+      "ready"
+    ],
+    [
+      "O102",
+      800000,
+      "VND",
+      "duplicate"
+    ],
+    [
+      "O102",
+      800000,
+      "VND",
+      "duplicate"
+    ],
+    [
+      "O103",
+      0,
+      "VND",
+      "missing"
+    ],
+    [
+      "O104",
+      100,
+      "USD",
+      "currency"
+    ],
+    [
+      "O105",
+      600000,
+      "VND",
+      "ready"
+    ]
+  ]
+}

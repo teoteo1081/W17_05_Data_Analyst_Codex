@@ -1,0 +1,204 @@
+{
+  "id": "da",
+  "folder": "W17_05_Data_Analyst_Codex",
+  "short": "Data & BI",
+  "rank": 1,
+  "locales": {
+    "vi": {
+      "role": "Data Analyst & Báo cáo BI",
+      "h1a": "Hiểu đúng số liệu.",
+      "h1b": "Báo cáo đúng quyết định.",
+      "lead": "Hỗ trợ doanh nghiệp dịch vụ làm sạch dữ liệu Excel, chuẩn hóa KPI và xây báo cáo quản trị bằng Power Query, SQL và Power BI. Bắt đầu từ một báo cáo có nguồn đối chiếu và câu hỏi kinh doanh rõ ràng.",
+      "boundary": "Phạm vi đầu tiên: dữ liệu và báo cáo. Định nghĩa doanh thu, chi phí và cách sử dụng báo cáo được chốt với người phụ trách nghiệp vụ.",
+      "services": [
+        [
+          "Làm sạch & kiểm tra dữ liệu",
+          "Bộ dữ liệu được chuẩn hóa, kèm danh sách thiếu, trùng và quy tắc xử lý."
+        ],
+        [
+          "Báo cáo quản trị định kỳ",
+          "Báo cáo doanh số, công nợ hoặc hiệu suất có định nghĩa KPI, đối chiếu tổng và hướng dẫn cập nhật."
+        ],
+        [
+          "Dashboard BI theo câu hỏi",
+          "Dashboard Power BI có mô hình dữ liệu, bộ lọc và kiểm thử trên phạm vi đã thống nhất."
+        ]
+      ],
+      "case_title": "Kiểm tra dữ liệu trước khi vẽ biểu đồ"
+    },
+    "en": {
+      "role": "Data Analyst & BI Reporting",
+      "h1a": "Understand the numbers.",
+      "h1b": "Report for better decisions.",
+      "lead": "Help service businesses clean Excel data, define KPIs, and build management reporting with Power Query, SQL, and Power BI. Start with one report, traceable sources, and a clear business question.",
+      "boundary": "Initial scope: data and reporting. Agree revenue and cost definitions with the business owner before using the report.",
+      "services": [
+        [
+          "Data cleanup & quality review",
+          "A standardized dataset with missing-data, duplicate, and transformation rules."
+        ],
+        [
+          "Recurring management reporting",
+          "Sales, receivables, or operations reporting with KPI definitions, total reconciliation, and refresh instructions."
+        ],
+        [
+          "Question-led BI dashboard",
+          "A Power BI dashboard with a data model, filters, and acceptance tests within an agreed scope."
+        ]
+      ],
+      "case_title": "Validate data before building charts"
+    },
+    "es": {
+      "role": "Análisis de Datos e Informes BI",
+      "h1a": "Entender los datos.",
+      "h1b": "Informar para decidir.",
+      "lead": "Ayudo a empresas de servicios a limpiar datos de Excel, definir indicadores y crear informes con Power Query, SQL y Power BI. Empezar por un informe, fuentes verificables y una pregunta concreta.",
+      "boundary": "Alcance inicial: datos e informes. Acordar definiciones de ingresos y costes con el responsable del negocio.",
+      "services": [
+        [
+          "Limpieza y calidad de datos",
+          "Datos normalizados con registros de ausencias, duplicados y reglas."
+        ],
+        [
+          "Informes de gestión periódicos",
+          "Ventas, cuentas por cobrar u operaciones con indicadores, conciliación e instrucciones."
+        ],
+        [
+          "Panel BI según la pregunta",
+          "Un panel Power BI con modelo, filtros y pruebas según el alcance acordado."
+        ]
+      ],
+      "case_title": "Validar antes de crear gráficos"
+    },
+    "zh": {
+      "role": "数据分析与 BI 报告",
+      "h1a": "先理解数据。",
+      "h1b": "再支持决策。",
+      "lead": "帮助服务企业清理 Excel 数据、明确指标，并使用 Power Query、SQL 和 Power BI 构建管理报告。从一份报告、可核对的来源及明确业务问题开始。",
+      "boundary": "初期范围是数据与报告。收入、成本口径和报告用途由业务负责人确认。",
+      "services": [
+        [
+          "数据清理与质量核验",
+          "规范数据，记录缺失、重复和转换规则。"
+        ],
+        [
+          "定期管理报告",
+          "销售、应收款或运营报告，含指标定义、汇总核对与更新说明。"
+        ],
+        [
+          "围绕问题的 BI 看板",
+          "按约定范围交付含数据模型、筛选器和验收测试的 Power BI 看板。"
+        ]
+      ],
+      "case_title": "先核验数据，再制作图表"
+    }
+  },
+  "topics": [
+    "Mỗi dòng đại diện cho gì (grain); khóa; quan hệ 1-n và lỗi cộng trùng khi JOIN",
+    "Excel Table, SUMIFS, Pivot; Power Query kiểu dữ liệu, merge và append",
+    "SQL SELECT / WHERE / GROUP BY / JOIN / COUNT DISTINCT, NULL và ngày",
+    "Mô hình sao, dimension/fact; measure và calculated column; SUM và DIVIDE trong DAX",
+    "Định nghĩa KPI, đối chiếu tổng, mẫu kiểm tra, refresh và giới hạn kết luận"
+  ],
+  "offer": "Dọn và đối chiếu một bộ dữ liệu, rồi làm một báo cáo quản trị có định nghĩa rõ",
+  "capstone": "Hai nguồn hóa đơn / thanh toán, trả nhiều lần, dòng trùng, giao dịch hủy và tiền tệ khác nhau. Làm báo cáo mỗi hóa đơn một dòng, đối chiếu ba tổng và giải thích một sai lệch cho chủ doanh nghiệp.",
+  "resources": [
+    [
+      "Power BI: chuẩn bị dữ liệu",
+      "https://learn.microsoft.com/en-us/training/paths/prepare-data-power-bi/"
+    ],
+    [
+      "SQL nền tảng",
+      "https://learn.microsoft.com/en-us/training/paths/get-started-querying-with-transact-sql/"
+    ]
+  ],
+  "lab": {
+    "invoices": [
+      {
+        "id": "L101",
+        "amount": 1200000,
+        "currency": "VND"
+      },
+      {
+        "id": "L102",
+        "amount": 800000,
+        "currency": "VND"
+      },
+      {
+        "id": "L103",
+        "amount": 100,
+        "currency": "USD"
+      }
+    ],
+    "payments": [
+      {
+        "id": "P1",
+        "invoice": "L101",
+        "amount": 500000,
+        "currency": "VND"
+      },
+      {
+        "id": "P2",
+        "invoice": "L101",
+        "amount": 300000,
+        "currency": "VND"
+      },
+      {
+        "id": "P3",
+        "invoice": "L102",
+        "amount": 800000,
+        "currency": "VND"
+      },
+      {
+        "id": "P3",
+        "invoice": "L102",
+        "amount": 800000,
+        "currency": "VND"
+      },
+      {
+        "id": "P4",
+        "invoice": "L999",
+        "amount": 50000,
+        "currency": "VND"
+      }
+    ]
+  },
+  "rows": [
+    [
+      "O101",
+      1200000,
+      "VND",
+      "ready"
+    ],
+    [
+      "O102",
+      800000,
+      "VND",
+      "duplicate"
+    ],
+    [
+      "O102",
+      800000,
+      "VND",
+      "duplicate"
+    ],
+    [
+      "O103",
+      0,
+      "VND",
+      "missing"
+    ],
+    [
+      "O104",
+      100,
+      "USD",
+      "currency"
+    ],
+    [
+      "O105",
+      600000,
+      "VND",
+      "ready"
+    ]
+  ]
+}

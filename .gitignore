@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+credentials*.json
+service_account*.json
+training/submissions/
+training/assessment_state.local.json
+training/coach_answer_key.local.md
+*.log

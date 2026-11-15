@@ -1,0 +1,38 @@
+{
+  "ready": [
+    "Theo quy tắc mẫu",
+    "Meets sample rules",
+    "Cumple reglas de muestra",
+    "满足示例规则"
+  ],
+  "duplicate": [
+    "Mã bị lặp",
+    "Repeated identifier",
+    "Identificador repetido",
+    "编号重复"
+  ],
+  "missing": [
+    "Thiếu giá trị bắt buộc",
+    "Required value missing",
+    "Falta un dato obligatorio",
+    "缺少必填值"
+  ],
+  "definition": [
+    "Cần chốt định nghĩa / người duyệt",
+    "Definition / owner needed",
+    "Falta definición / responsable",
+    "需明确口径或负责人"
+  ],
+  "currency": [
+    "Khác đơn vị tiền tệ",
+    "Different currencies",
+    "Monedas distintas",
+    "币种不同"
+  ],
+  "unmatched": [
+    "Chưa khớp nguồn",
+    "No source match",
+    "Sin correspondencia",
+    "尚未匹配来源"
+  ]
+}

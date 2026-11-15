@@ -1,0 +1,87 @@
+[
+  {
+    "name": "four complete locales / three scoped offers",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "safe structured rendering / no empty anchors / no overflow masking",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "professional public profile; no learner verdict in UI",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "role-specific learning / AI / client / lab / rubric pack exists",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "personal assessment files excluded from Git",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "responsive / i18n / preserved headline structure (24 viewport-locale combinations)",
+    "status": "PASS",
+    "detail": "[]"
+  },
+  {
+    "name": "review filter / aria state",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "filter remains coherent after language change",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "reset filter",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "theme and language persist",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "visible keyboard skip link",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "contact anchor and mailto target",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "sample JSON download",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "source/sibling storage untouched",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "untrusted text cannot create HTML or execute",
+    "status": "PASS",
+    "detail": ""
+  },
+  {
+    "name": "no page JavaScript errors",
+    "status": "PASS",
+    "detail": "[]"
+  },
+  {
+    "name": "native 200% zoom applied with no page overflow",
+    "status": "PASS",
+    "detail": "{\"inner\": 640, \"outer\": 1280, \"dpr\": 2, \"width\": 640}"
+  }
+]
